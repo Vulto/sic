@@ -1,0 +1,63 @@
+*.freenode.net: 10:33   (*): *** Looking up your ident...
+*.freenode.net: 10:33   (*): *** Looking up your hostname...
+*.freenode.net: 10:33   (vulto): *** Could not find your ident, using ~vulto instead.
+*.freenode.net: 10:33   (vulto): *** Could not resolve your hostname: Request timed out; using your IP address (179.93.180.101) instead.
+avalanche.freenode.net: 10:33   (vulto): Welcome to the freenode IRC Network vulto!~vulto@179.93.180.101
+avalanche.freenode.net: 10:33   (vulto): Your host is *.freenode.net, running version InspIRCd-3
+avalanche.freenode.net: 10:33   (vulto): This server was created 00:31:42 Nov 23 2021
+avalanche.freenode.net: 10:33   (vulto avalanche.freenode.net InspIRCd-3 BDHILRSTWcdghikorswxz ABCDEFIJKLMNOPQRSTUWXYZbcdefhijklmnoprstuvwz): BEFIJLWXYZbdefhjklovw
+avalanche.freenode.net: 10:33   (vulto ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=ascii CHANLIMIT=#): 20 CHANMODES=IXZbew,k,BEFJLWdfjl,ACDKMNOPQRSTUcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+avalanche.freenode.net: 10:33   (vulto EXTBAN=,ACNOQRSTUacjmnpruwz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I): 100,X:100,b:100,e:100,w:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=freenode :are supported by this server
+avalanche.freenode.net: 10:33   (vulto NICKLEN=30 PREFIX=(Yohv)!@%+ REMOVE SAFELIST SECURELIST=60 SILENCE=32 STATUSMSG=!@%+ TOPICLEN=390 UHNAMES USERIP USERLEN=10 USERMODES=,,s,BDHILRSTWcdghikorwxz VBANLIST): are supported by this server
+avalanche.freenode.net: 10:33   (vulto VLIST=b WATCH=32 WHOX): are supported by this server
+avalanche.freenode.net: 10:33   (vulto): There are 10 users and 8263 invisible on 16 servers
+avalanche.freenode.net: 10:33   (vulto 6): operator(s) online
+avalanche.freenode.net: 10:33   (vulto 39): unknown connections
+avalanche.freenode.net: 10:33   (vulto 12502): channels formed
+avalanche.freenode.net: 10:33   (vulto): I have 4388 clients and 1 servers
+avalanche.freenode.net: 10:33   (vulto): Current local users: 4388  Max: 4622
+avalanche.freenode.net: 10:33   (vulto): Current global users: 8273  Max: 8680
+avalanche.freenode.net: 10:33   (vulto): *.freenode.net message of the day
+avalanche.freenode.net: 10:33   (vulto):   Hello, World!
+avalanche.freenode.net: 10:33   (vulto):  
+avalanche.freenode.net: 10:33   (vulto):   Welcome to the
+avalanche.freenode.net: 10:33   (vulto):           __                               _
+avalanche.freenode.net: 10:33   (vulto):          / _|_ __ ___  ___ _ __   ___   __| | ___
+avalanche.freenode.net: 10:33   (vulto):         | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \
+avalanche.freenode.net: 10:33   (vulto):         |  _| | |  __/  __/ | | | (_) | (_| |  __/
+avalanche.freenode.net: 10:33   (vulto):         |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|
+avalanche.freenode.net: 10:33   (vulto):                                    AUTONOMOUS ZONE
+avalanche.freenode.net: 10:33   (vulto):  
+avalanche.freenode.net: 10:33   (vulto):   Connect to us on:
+avalanche.freenode.net: 10:33   (vulto):  
+avalanche.freenode.net: 10:33   (vulto):   Hostname: irc.freenode.net / chat.freenode.net
+avalanche.freenode.net: 10:33   (vulto):   Plaintext: 6660-6669
+avalanche.freenode.net: 10:33   (vulto):   TLS/SSL: 6697,7000,7070
+avalanche.freenode.net: 10:33   (vulto):   Webchat: https://webchat.freenode.net
+avalanche.freenode.net: 10:33   (vulto):  
+avalanche.freenode.net: 10:33   (vulto):   By connecting to freenode you indicate that you have read and accept our
+avalanche.freenode.net: 10:33   (vulto):   policies and guidelines as set out on https://freenode.net and agree to
+avalanche.freenode.net: 10:33   (vulto):   be scanned for an open proxy.
+avalanche.freenode.net: 10:33   (vulto):  
+avalanche.freenode.net: 10:33   (vulto):   If you are looking for assistance, please try:
+avalanche.freenode.net: 10:33   (vulto):  
+avalanche.freenode.net: 10:33   (vulto):   #help                    - Help with general IRC and Services.
+avalanche.freenode.net: 10:33   (vulto):   #chanhelp                - Help with channels and channel services.
+avalanche.freenode.net: 10:33   (vulto):   #IRC                     - Help with the IRC.com by freenode app.
+avalanche.freenode.net: 10:33   (vulto):  
+avalanche.freenode.net: 10:33   (vulto):   Checkout some of our communities and services:
+avalanche.freenode.net: 10:33   (vulto):  
+avalanche.freenode.net: 10:33   (vulto):   #freenode-bbs            - BBS [https://bbs.freenode.net/]
+avalanche.freenode.net: 10:33   (vulto):   #freenode-bbs-discussion - BBS Discussion
+avalanche.freenode.net: 10:33   (vulto):   #freenode-jobs           - Jobs [https://jobs.freenode.net/]
+avalanche.freenode.net: 10:33   (vulto):   #freenode                - Chat about freenode.
+avalanche.freenode.net: 10:33   (vulto):   #anonchan                - Chat anonymously.
+avalanche.freenode.net: 10:33   (vulto):  
+avalanche.freenode.net: 10:33   (vulto):   Type /join #<channel>
+avalanche.freenode.net: 10:33   (vulto):  
+avalanche.freenode.net: 10:33   (vulto):   Thank you for using freenode!
+avalanche.freenode.net: 10:33   (vulto): End of message of the day.
+avalanche.freenode.net: 10:33   (vulto joseon-iiq.rhs.js1k18.IP): is now your displayed host
+vulto       : 10:33   (vulto): +wRix
+irc.freenode.com: 10:39   (): Closing link: (~vulto@179.93.180.101) [Client exited]
+
